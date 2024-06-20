@@ -1,2 +1,2 @@
 # snakejs
-testing javascript waters.
+i did not expect it to be this hard
